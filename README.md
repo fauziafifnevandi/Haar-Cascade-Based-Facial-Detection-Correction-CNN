@@ -1,5 +1,5 @@
 # Haar-Cascade-Based-Facial-Detection-Correction-CNN
-Detection Face using Haar
+Detection Face using Haarr
 ![Test Image 1](haar.png)
 
 Detection Face using Haar Correction CNN
